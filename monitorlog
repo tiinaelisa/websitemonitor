@@ -1,0 +1,14 @@
+Wed Jul 01 21:31:29 EEST 2020
+
+URL: https://www.facebook.com
+Status code: 200
+Content found matched required content: false
+
+URL: http://www.youtube.com
+Status code: 301
+Content found matched required content: false
+
+URL: https://www.google.com
+Status code: 200
+Content found matched required content: true
+
