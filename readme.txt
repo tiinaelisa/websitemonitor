@@ -1,6 +1,6 @@
 The program monitors websites by checking their status codes and content,
 and compares the content found with content requirements, defined in config.properties.
-It isn't, however, fully complete yet:
+It isn't, however, fully complete yet as this was done as a quickish coding exercise:
 
 # It shows the current status on path /status, and prints out the same information. Spring Boot is utilized for the former.
 The website was left basically undone due to time constraints, it only returns the required information in JSON.
